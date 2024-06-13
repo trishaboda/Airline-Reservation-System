@@ -26,5 +26,5 @@ CLASS DIAGRAM
 
 COLLABORATORS  
 1. [@trishaboda](https://www.github.com/trishaboda)  
-2. [@divyansh-panwar](https://www.github.com/divyansh-panwar)     
+2. [@divyanshpanwar03](https://www.github.com/divyanshpanwar03)    
 3. [@aryan-bhoi](https://www.github.com/aryan-bhoi)  
